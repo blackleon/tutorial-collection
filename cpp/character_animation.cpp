@@ -1,3 +1,5 @@
+//code by blackleon, added "-std=c++11" to compiler commands for it to work
+
 #include <iostream>
 #include <conio.h>
 #include <windows.h>
